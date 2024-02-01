@@ -1,0 +1,34 @@
+.App {
+  text-align: center;
+}
+.copyright{
+  text-align: center;
+}
+.chat-message{
+  background-color:aqua;
+  margin: 1em 25em;
+  padding: 1em;
+  max-height: 450px;
+  overflow-y: auto;
+  color:grey;
+  border-radius: 25px;
+}
+.message-right{
+  background:#0cebf3;
+  border-radius: 25px;
+  padding: 0em 1em !important;
+  margin: 1em;
+}
+.message-left{
+  background: rgb(205, 236, 255);
+  border-radius: 25px;
+  padding: 0em 1em !important;
+  margin: 1em;
+}
+.message-text{
+  font-size: 19px;
+}
+.message-icon{
+  margin: 5px;
+  font-size: 25px;
+}
