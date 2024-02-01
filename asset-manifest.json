@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tourbot/static/css/main.f42076f6.css",
+    "main.js": "/tourbot/static/js/main.b6015c25.js",
+    "static/js/787.a1ff435a.chunk.js": "/tourbot/static/js/787.a1ff435a.chunk.js",
+    "index.html": "/tourbot/index.html",
+    "main.f42076f6.css.map": "/tourbot/static/css/main.f42076f6.css.map",
+    "main.b6015c25.js.map": "/tourbot/static/js/main.b6015c25.js.map",
+    "787.a1ff435a.chunk.js.map": "/tourbot/static/js/787.a1ff435a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f42076f6.css",
+    "static/js/main.b6015c25.js"
+  ]
+}
